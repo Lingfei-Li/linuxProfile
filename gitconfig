@@ -1,0 +1,7 @@
+[sendemail]
+	smtpserver = smtp-mail.outlook.com
+	smtpserverport = 25
+	smtpencryption = tls
+[user]
+	email = cslilingfei@outlook.com
+	name = lingfei
