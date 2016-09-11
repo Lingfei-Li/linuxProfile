@@ -1,6 +1,7 @@
 
 
 :set nu
+:set visualbell
 :color ron
 
 
