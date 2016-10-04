@@ -1,9 +1,7 @@
 
 
 :set nu
-:set visualbell
 :color ron
-
 
 filetype plugin indent on
 set tabstop=4
@@ -81,3 +79,9 @@ set expandtab
  set showmatch 
  " How many tenths of a second to blink when matching brackets
  set mat=2
+
+" No annoying sound on errors
+ set noerrorbells
+ set novisualbell
+ set t_vb=
+ set tm=500
