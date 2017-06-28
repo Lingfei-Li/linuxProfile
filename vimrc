@@ -7,6 +7,8 @@ filetype plugin indent on
 set tabstop=4
 set shiftwidth=4
 set expandtab
+filetype plugin on
+syntax on
 
 
 :nmap <c-s> :w<CR>
