@@ -10,3 +10,5 @@ alias ga='git add -A'
 
 stty -ixon
 
+export CLICOLOR=1
+export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
